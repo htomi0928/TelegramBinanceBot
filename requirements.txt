@@ -1,0 +1,4 @@
+binance-connector
+telethon
+python-dotenv
+asyncio
